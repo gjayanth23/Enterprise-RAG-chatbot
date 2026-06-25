@@ -1,0 +1,18 @@
+Bank Account Opening Policy
+
+Customers must submit:
+
+1. PAN Card
+2. Aadhaar Card
+3. Address Proof
+4. Passport Size Photo
+
+KYC verification is mandatory.
+
+Savings Account Minimum Balance:
+₹5,000
+
+Current Account Minimum Balance:
+₹10,000
+
+Customer must be at least 18 years old.

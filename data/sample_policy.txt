@@ -15,4 +15,4 @@ Savings Account Minimum Balance:
 Current Account Minimum Balance:
 ₹10,000
 
-Customer must be at least 18 years old.
+Customer must be at least 18 years old not less than 18 years.

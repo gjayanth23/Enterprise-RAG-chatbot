@@ -1,18 +1,15 @@
-Bank Account Opening Policy
+Mainframe Batch Operations
 
-Customers must submit:
+Daily settlement jobs are executed after end-of-day processing.
 
-1. PAN Card
-2. Aadhaar Card
-3. Address Proof
-4. Passport Size Photo
+Common failures:
+- Dataset allocation errors
+- GDG generation issues
+- JCL syntax failures
+- Missing input files
 
-KYC verification is mandatory.
-
-Savings Account Minimum Balance:
-₹5,000
-
-Current Account Minimum Balance:
-₹10,000
-
-Customer must be at least 18 years old not less than 18 years.
+Recovery steps:
+1. Review JES logs
+2. Correct JCL
+3. Rerun failed step
+4. Validate output dataset
